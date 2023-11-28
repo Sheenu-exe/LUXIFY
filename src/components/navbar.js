@@ -20,7 +20,7 @@ export default function LabelBottomNavigation() {
   return (
     <div className="navb">
       <BottomNavigation
-        style={{ backgroundColor: "#0D0221", Width: "100%" ,borderRadius:"10px 10px 0 0",zIndex:"1000",position:"relative`"}}
+        style={{ backgroundColor: "#0D0221", width: "100%" ,borderRadius:"10px 10px 0 0",zIndex:"1000",position:"relative`"}}
         sx={{ width: 500 }}
         value={value}
         onChange={handleChange}
