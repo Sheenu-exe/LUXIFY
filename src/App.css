@@ -155,6 +155,10 @@ nav.navbphn {
     margin:0 40px;
     display:contents;
   }
+
+  .MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-vubbuv{
+    margin-top:10px;
+  }
   .heroname{
     display: none;
   }
