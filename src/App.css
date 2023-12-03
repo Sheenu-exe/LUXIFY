@@ -175,7 +175,7 @@ nav.navbphn {
     justify-content: center;
   }
   .css-1iyzz1t{
-    width:100%;
+    width:100% !important;
   }
 .feat{
   display: flex;
