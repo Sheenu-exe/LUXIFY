@@ -22,7 +22,7 @@ const Data = {
             name:"Nike Air Force One",
             price:"4999",
             description:'"Iconic and timeless, the Air Force 1 shoes redefine sneaker culture with their classic design and unparalleled comfort, making a bold statement with every step."',
-            img:"https://i.ibb.co/mh81CVw/c9c4ea0932194bc683fe0ecaa7b7bf2b-Photo-Room-png-Photo-Room.png",
+            img:"https://i.ibb.co/mHbTPVY/8c8c88e5612b3b6e8a263be06288675b-Photo-Room-png-Photo-Room.png",
             brand:"Nike"
         },
         {
